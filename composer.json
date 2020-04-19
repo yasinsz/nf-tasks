@@ -1,0 +1,14 @@
+{
+    "name": "till/tasks",
+    "authors": [
+        {
+            "name": "Till Schander"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NeueFische\\": "src/"
+        }
+    }
+}
